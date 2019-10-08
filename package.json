@@ -2,11 +2,12 @@
   "name": "sfdx-ftw-assertions",
   "main": "./types/index.js",
   "version": "0.1.0",
-  "description": "Assertion typings for implementing sfdx-ftw assertions.",
+  "description": "Typings for implementing sfdx-ftw assertions.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "sfdx", "sfdx-ftw"
-  ]
+  ], 
+  "homepage": "https://github.com/alpha-bytes/sfdx-ftw-assertions"
 }
