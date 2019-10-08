@@ -1,5 +1,6 @@
 {
   "name": "sfdx-ftw-assertions",
+  "main": "./types/index.js",
   "version": "0.1.0",
   "description": "Assertion typings for implementing sfdx-ftw assertions.",
   "scripts": {
