@@ -1,0 +1,11 @@
+{
+  "name": "sfdx-ftw-assertions",
+  "version": "0.1.0",
+  "description": "Assertion typings for implementing sfdx-ftw assertions.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sfdx", "sfdx-ftw"
+  ]
+}
